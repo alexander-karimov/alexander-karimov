@@ -28,9 +28,3 @@
     <a href="https://t.me/alexander_karimov">
         <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logoColor=white" alt="Telegram" />
     </a>
-
-<div align="center" style="display: flex; flex-direction: column;">
-    <img style="width: 350px"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexander-karimov&langs_count=10&layout=compact"
-        alt="Top Langs" />
-</div>

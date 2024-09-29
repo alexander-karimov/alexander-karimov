@@ -16,8 +16,11 @@
         height="40" />
     <img src="https://camo.githubusercontent.com/2d207b0294721c57203fb9451bd14ef5ec0cf391790e4a2499cac1e7ed3bb9c9/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e737667" alt="mui" width="40"
         height="40" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png" alt="figma" width="40" height="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png" alt="figma" width="38" height="38" />
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+    <img src="https://www.svgrepo.com/show/353930/jest.svg" alt="jest" width="38" height="38" />
+    <img src="https://vitejs.dev/logo.svg" 
+      alt="vite" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" 
       alt="webpack" width="40" height="40" />
 </p>

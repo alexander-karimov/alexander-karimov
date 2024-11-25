@@ -23,6 +23,8 @@
       alt="vite" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" 
       alt="webpack" width="40" height="40" />
+    <img src="https://www.jetbrains.com/guide/assets/thumbnail-512543b5.png" 
+      alt="docker" width="40" height="40" />
 </p>
 
 <h3 align="center">And this is my contact:</h3>
